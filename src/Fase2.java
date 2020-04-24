@@ -61,7 +61,7 @@ public class Fase2 {
 			System.out.println(limitPlats);
 		}
 		
-		System.out.println("la llista"+ comanda);
+		System.out.println("La llista demanada per el client"+ comanda);
 		
 		
 
